@@ -1,37 +1,34 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="bTV HD" group-title="National", bTV HD
+https://ro.glebul.com/hls/btv/index.m3u8?e=1787171078&hash=VD-KVBxCBSd0MFTHckaQeg|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-name="NOVA TV HD" group-title="National", NOVA TV HD
+https://ro.glebul.com/hls/nova/index.m3u8?e=1787171083&hash=NxxyLdSA0HHU3p1R2_xwVQ|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-name="BNT 1 HD" group-title="National", BNT 1 HD
-https://ro.glebul.com/hls/bnt-1-hd/index.m3u8?e=1787168165&hash=DtJ6FsJnE-Rs95N3hzJf-g|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/bnt-1-hd/index.m3u8?e=1787171088&hash=lK5He3OMv1CHAS00PUSBVA|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-name="BNT 2" group-title="National", BNT 2
-https://ro.glebul.com/hls/bnt-2/index.m3u8?e=1787168170&hash=YwSaQASHZ1VXt01j1n7snw|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1787171093&hash=u_1ATIWPRMSG_n6B7Sipuw|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-name="BNT 3 HD" group-title="National", BNT 3 HD
-https://cdn3.glebul.com/hls/bnt-3-hd/index.m3u8?e=1787168174&hash=MYij8eyc5376-ecmCHvOjQ|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
+https://ro.glebul.com/hls/bnt-3-hd/index.m3u8?e=1787171098&hash=paZlNqLQBOyW8YYy7My5GQ|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-name="Bulgaria ON AIR" group-title="National", Bulgaria ON AIR
-https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1787168179&hash=CxhohOgzFmZOLTjgMXU7EA|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-name="Diema Sport HD" group-title="Sports", Diema Sport HD
-https://cdn3.glebul.com/hls/diema-sport-hd/index.m3u8?e=1787168184&hash=padpedk6YMzHZ9AV6DNzYg|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1787171102&hash=EO_b43MKlIqiO-DzJy5cRA|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-name="Diema Sport 2 HD" group-title="Sports", Diema Sport 2 HD
-https://ro.glebul.com/hls/diema-sport-2-hd/index.m3u8?e=1787168188&hash=_R0LgMWhw81BwhtNcUMGjQ|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
+https://ro.glebul.com/hls/diema-sport-2-hd/index.m3u8?e=1787171111&hash=eIkxgOdABYwByksHp_FLog|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-name="Diema Sport 3 HD" group-title="Sports", Diema Sport 3 HD
-https://cdn3.glebul.com/hls/diema-sport-3-hd/index.m3u8?e=1787168192&hash=ogz2LZusDyXXSi5ruQwKSw|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-name="Max Sport 2 HD" group-title="Sports", Max Sport 2 HD
-https://ro.glebul.com/hls/max-sport-2-hd/index.m3u8?e=1787168201&hash=lxH-8KOLeYq_JwvOo1anSg|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Max Sport 3 HD" group-title="Sports", Max Sport 3 HD
+https://cdn3.glebul.com/hls/max-sport-3-hd/index.m3u8?e=1787171129&hash=brbGJzvMx8Vf3jcWClxrMA|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-name="Max Sport 4 HD" group-title="Sports", Max Sport 4 HD
-https://ro.glebul.com/hls/max-sport-4-hd/index.m3u8?e=1787168210&hash=FrdqKZjAUOaCyY_l52hZjw|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-name="Nova Sport HD" group-title="Sports", Nova Sport HD
-https://ro.glebul.com/hls/nova-sport-hd/index.m3u8?e=1787168215&hash=1BP-pOG94GQqibtLTyK97Q|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
+https://ro.glebul.com/hls/max-sport-4-hd/index.m3u8?e=1787171134&hash=ZSeT1y6WSFgNv81UwLxWyg|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-name="Ring BG HD" group-title="Sports", Ring BG HD
-https://cdn3.glebul.com/hls/ring-bg-hd/index.m3u8?e=1787168220&hash=gVBUxFtQ9RhDwKrTjwQCvA|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/ring-bg-hd/index.m3u8?e=1787171143&hash=iuQYLMfbEKo4XaeNgy5ejg|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-name="Eurosport 1 HD" group-title="Sports", Eurosport 1 HD
-https://ro.glebul.com/hls/eurosport-1-hd/index.m3u8?e=1787168224&hash=tins4b4DYm2qzgl5_hQdgA|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
+https://ro.glebul.com/hls/eurosport-1-hd/index.m3u8?e=1787171147&hash=XNeg_XHTDLkyLE5BX4myMw|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0
