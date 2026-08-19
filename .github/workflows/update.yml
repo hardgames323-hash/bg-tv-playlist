@@ -1,0 +1,32 @@
+name: Update Playlist Tokens
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Automatically runs every 3 hours
+  workflow_dispatch:      # Allows manual trigger button in GitHub
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Scraper
+        run: python scraper.py
+
+      - name: Commit & Push updated playlist
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add playlist.m3u
+          git commit -m "Auto-update stream tokens" || exit 0
+          git push
