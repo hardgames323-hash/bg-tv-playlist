@@ -2,8 +2,8 @@ name: Update Playlist Tokens
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Automatically runs every 3 hours
-  workflow_dispatch:      # Allows manual trigger button in GitHub
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: setup-python@v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
