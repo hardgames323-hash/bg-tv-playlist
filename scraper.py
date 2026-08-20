@@ -67,7 +67,7 @@ CHANNELS = {
     "Nova Sport HD": "https://www.seirsanduk.online/?id=hd-nova-sport-hd&pass=&hash=",
     "Ring BG HD": "https://www.seirsanduk.online/?id=hd-ring-bg-hd&pass=&hash=",
     "Eurosport 1 HD": "https://www.seirsanduk.online/?id=hd-eurosport-1-hd&pass=&hash=",
-    "Eurosport 2 HD": "https://www.seirsanduk.online/?id=hd-eurosport-2-hd&pass=&hash="
+    "Eurosport 2 HD": "https://www.seirsanduk.online/?id=hd-eurosport-2-hd&pass=&hash=",
     "Max One HD": "https://www.seirsanduk.online/?id=hd-max-one-hd&pass=&hash=",
 }
 
