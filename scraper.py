@@ -1,73 +1,135 @@
-import time
+import os
 from playwright.sync_api import sync_playwright
 
 CHANNELS = {
-    # National
-    "bTV HD": ("National", "https://www.seirsanduk.online/btv"),
-    "NOVA TV HD": ("National", "https://www.seirsanduk.online/nova"),
-    "BNT 1 HD": ("National", "https://www.seirsanduk.online/bnt-1-hd"),
-    "BNT 2": ("National", "https://www.seirsanduk.online/bnt-2"),
-    "BNT 3 HD": ("National", "https://www.seirsanduk.online/bnt-3-hd"),
-    "Bulgaria ON AIR": ("National", "https://www.seirsanduk.online/bulgaria-on-air"),
+    # National & General
+    "bTV HD": "https://www.seirsanduk.online/?id=hd-btv-hd&pass=&hash=",
+    "NOVA TV HD": "https://www.seirsanduk.online/?id=hd-nova-tv-hd&pass=&hash=",
+    "Viasat Explore HD": "https://www.seirsanduk.online/?id=hd-viasat-explore-hd&pass=&hash=",
+    "Travel Channel HD": "https://www.seirsanduk.online/?id=hd-travel-channel-hd&pass=&hash=",
+    "BNT 1 HD": "https://www.seirsanduk.online/?id=hd-bnt-1-hd&pass=&hash=",
+    "24 Kitchen HD": "https://www.seirsanduk.online/?id=hd-24-kitchen-hd&pass=&hash=",
+    "BNT 2": "https://www.seirsanduk.online/?id=bnt-2&pass=&hash=",
+    "BNT 3 HD": "https://www.seirsanduk.online/?id=hd-bnt-3-hd&pass=&hash=",
+    "BNT 4": "https://www.seirsanduk.online/?player=12&id=bnt-4&pass=",
+    "Bulgaria ON AIR": "https://www.seirsanduk.online/?id=bulgaria-on-air&pass=&hash=",
+    "Kanal 3": "https://www.seirsanduk.online/?id=kanal-3&pass=&hash=",
+    "Evrokom": "https://www.seirsanduk.online/?id=evrokom&pass=&hash=",
+    "Nova News HD": "https://www.seirsanduk.online/?id=hd-nova-news-hd&pass=&hash=",
+    "Euronews Bulgaria HD": "https://www.seirsanduk.online/?id=hd-euronews-bulgaria-hd&pass=&hash=",
+    "7/8 TV HD": "https://www.seirsanduk.online/?id=hd-78-tv-hd&pass=&hash=",
+    "SKAT": "https://www.seirsanduk.online/?id=skat&pass=&hash=",
+    "VTK": "https://www.seirsanduk.online/?id=vtk&pass=&hash=",
+    
+    # Movies & Entertainment
+    "bTV Comedy HD": "https://www.seirsanduk.online/?id=hd-btv-comedy-hd&pass=&hash=",
+    "bTV Action HD": "https://www.seirsanduk.online/?id=hd-btv-action-hd&pass=&hash=",
+    "bTV Cinema": "https://www.seirsanduk.online/?id=btv-cinema&pass=&hash=",
+    "bTV Story": "https://www.seirsanduk.online/?id=btv-story&pass=&hash=",
+    "Kino Nova HD": "https://www.seirsanduk.online/?id=hd-kino-nova-hd&pass=&hash=",
+    "Diema Family HD": "https://www.seirsanduk.online/?id=hd-diema-family-hd&pass=&hash=",
+    "STAR Channel HD": "https://www.seirsanduk.online/?id=hd-star-channel-hd&pass=&hash=",
+    "STAR Crime HD": "https://www.seirsanduk.online/?id=hd-star-crime-hd&pass=&hash=",
+    "STAR Life HD": "https://www.seirsanduk.online/?id=hd-star-life-hd&pass=&hash=",
+    "Epic Drama HD": "https://www.seirsanduk.online/?player=11&id=hd-epic-drama-hd&pass=",
+    "AXN": "https://www.seirsanduk.online/?id=axn&pass=&hash=",
+    "AXN Black": "https://www.seirsanduk.online/?id=axn-black&pass=&hash=",
+    "AXN White": "https://www.seirsanduk.online/?id=axn-white&pass=&hash=",
+    
+    # Docs & Lifestyle
+    "Discovery Channel HD": "https://www.seirsanduk.online/?id=hd-discovery-channel-hd&pass=&hash=",
+    "Nat Geo HD": "https://www.seirsanduk.online/?id=hd-nat-geo-hd&pass=&hash=",
+    "Nat Geo Wild HD": "https://www.seirsanduk.online/?id=hd-nat-geo-wild-hd&pass=&hash=",
+    "ID Xtra HD": "https://www.seirsanduk.online/?id=hd-id-xtra-hd&pass=&hash=",
+    "Travel TV": "https://www.seirsanduk.online/?id=travel-tv&pass=&hash=",
+    "Food Network HD": "https://www.seirsanduk.online/?id=hd-food-network-hd&pass=&hash=",
+    "TLC": "https://www.seirsanduk.online/?id=tlc&pass=&hash=",
+    "Code Fashion TV HD": "https://www.seirsanduk.online/?id=hd-code-fashion-tv-hd&pass=&hash=",
+    
+    # Music
+    "City TV": "https://www.seirsanduk.online/?id=city-tv&pass=&hash=",
+    "The Voice": "https://www.seirsanduk.online/?id=the-voice&pass=&hash=",
+    "Planeta HD": "https://www.seirsanduk.online/?id=hd-planeta-hd&pass=&hash=",
+    "DSTV": "https://www.seirsanduk.online/?id=dstv&pass=&hash=",
+    
+    # Business
+    "Bloomberg TV": "https://www.seirsanduk.online/?id=bloomberg-tv&pass=&hash=",
     
     # Sports
-    "Diema Sport HD": ("Sports", "https://www.seirsanduk.online/diema-sport-hd"),
-    "Diema Sport 2 HD": ("Sports", "https://www.seirsanduk.online/diema-sport-2-hd"),
-    "Diema Sport 3 HD": ("Sports", "https://www.seirsanduk.online/diema-sport-3-hd"),
-    "Max Sport 1 HD": ("Sports", "https://www.seirsanduk.online/max-sport-1-hd"),
-    "Max Sport 2 HD": ("Sports", "https://www.seirsanduk.online/max-sport-2-hd"),
-    "Max Sport 3 HD": ("Sports", "https://www.seirsanduk.online/max-sport-3-hd"),
-    "Max Sport 4 HD": ("Sports", "https://www.seirsanduk.online/max-sport-4-hd"),
-    "Nova Sport HD": ("Sports", "https://www.seirsanduk.online/nova-sport-hd"),
-    "Ring BG HD": ("Sports", "https://www.seirsanduk.online/ring-bg-hd"),
-    "Eurosport 1 HD": ("Sports", "https://www.seirsanduk.online/eurosport-1-hd"),
+    "Diema HD": "https://www.seirsanduk.online/?id=hd-diema-hd&pass=&hash=",
+    "Diema Sport HD": "https://www.seirsanduk.online/?id=hd-diema-sport-hd&pass=&hash=",
+    "Diema Sport 2 HD": "https://www.seirsanduk.online/?id=hd-diema-sport-2-hd&pass=&hash=",
+    "Diema Sport 3 HD": "https://www.seirsanduk.online/?id=hd-diema-sport-3-hd&pass=&hash=",
+    "Max Sport 1 HD": "https://www.seirsanduk.online/?id=hd-max-sport-1-hd&pass=&hash=",
+    "Max Sport 2 HD": "https://www.seirsanduk.online/?id=hd-max-sport-2-hd&pass=&hash=",
+    "Max Sport 3 HD": "https://www.seirsanduk.online/?id=hd-max-sport-3-hd&pass=&hash=",
+    "Max Sport 4 HD": "https://www.seirsanduk.online/?id=hd-max-sport-4-hd&pass=&hash=",
+    "Nova Sport HD": "https://www.seirsanduk.online/?id=hd-nova-sport-hd&pass=&hash=",
+    "Ring BG HD": "https://www.seirsanduk.online/?id=hd-ring-bg-hd&pass=&hash=",
+    "Eurosport 1 HD": "https://www.seirsanduk.online/?id=hd-eurosport-1-hd&pass=&hash=",
+    "Eurosport 2 HD": "https://www.seirsanduk.online/?id=hd-eurosport-2-hd&pass=&hash="
+    "Max One HD": "https://www.seirsanduk.online/?id=hd-max-one-hd&pass=&hash=",
 }
 
-entries = []
-
-def run():
+def update_and_push():
+    entries = []
+    print(f"Starting playlist update for {len(CHANNELS)} channels...")
+    
     with sync_playwright() as p:
-        # Launch an invisible Chromium browser
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
         )
         
-        for name, (group, url) in CHANNELS.items():
+        for name, url in CHANNELS.items():
             page = context.new_page()
             stream_url = None
-            
-            # This acts exactly like looking at the F12 Network tab
-            def handle_response(response):
+
+            def capture(response):
                 nonlocal stream_url
                 if ".m3u8" in response.url and not stream_url:
                     stream_url = response.url
 
-            page.on("response", handle_response)
+            page.on("response", capture)
             
             try:
-                # Go to the channel page and wait for the DOM to load
                 page.goto(url, wait_until="domcontentloaded", timeout=15000)
-                # Give the JavaScript player 4 seconds to generate the token and request the stream
+                page.wait_for_timeout(2000)
+                
+                # Clicks the center of the viewport to start the player
+                page.mouse.click(page.viewport_size['width'] / 2, page.viewport_size['height'] / 2)
                 page.wait_for_timeout(4000) 
             except Exception as e:
-                print(f"Warning on {name}: {e}")
-                
+                pass
+
             if stream_url:
-                print(f"OK: {name}")
                 entries.append(
-                    f'#EXTINF:-1 tvg-name="{name}" group-title="{group}", {name}\n'
-                    f'{stream_url}|Referer=https://www.seirsanduk.online/&User-Agent=Mozilla/5.0'
+                    f'#EXTINF:-1 tvg-name="{name}", {name}\n'
+                    f'{stream_url}|Referer=https://www.seirsanduk.online/'
                 )
+                print(f"  ✓ {name}")
             else:
-                print(f"Fail: {name} (Could not intercept Javascript stream link)")
+                print(f"  ✗ {name} (Failed)")
                 
             page.close()
             
         browser.close()
 
-    with open("playlist.m3u", "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n\n" + "\n\n".join(entries))
+    if entries:
+        with open("playlist.m3u", "w", encoding="utf-8") as f:
+            f.write("#EXTM3U\n\n" + "\n\n".join(entries))
+
+        print("\nUploading to GitHub...")
+        os.system('git config user.name "TV Server"')
+        os.system('git config user.email "tv@server.local"')
+        os.system("git add playlist.m3u")
+        os.system('git commit -m "Auto-update tokens from PC"')
+        
+        # Pushes forcefully to override any GitHub-side conflicts
+        os.system("git push --force")
+        print("Done! The playlist is live.")
+    else:
+        print("\nNo links captured. Exiting without uploading.")
 
 if __name__ == "__main__":
-    run()
+    update_and_push()
