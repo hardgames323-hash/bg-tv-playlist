@@ -1,37 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="bTV HD", bTV HD
-https://cdn3.glebul.com/hls/btv/index.m3u8?e=1787171432&hash=p1BLRifxiJrfLDZqAAkGJw|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hlsfhd/hd-btv-hd.m3u8?e=1787243039&hash=4JZh0iPAc9kk56o2Qktytg|Referer=https://www.seirsanduk.online/
 
-#EXTINF:-1 tvg-name="NOVA TV HD", NOVA TV HD
-https://ro.glebul.com/hls/nova/index.m3u8?e=1787171436&hash=B1v6CSor10AEp6AiWU8oqw|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="BNT 1 HD", BNT 1 HD
-https://cdn3.glebul.com/hls/bnt-1-hd/index.m3u8?e=1787171440&hash=wGcbGYHhwldSwInakGRueA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="BNT 2", BNT 2
-https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1787171444&hash=VIwIymhxvvaqzL2YoBJMoQ|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="BNT 3 HD", BNT 3 HD
-https://cdn3.glebul.com/hls/bnt-3-hd/index.m3u8?e=1787171448&hash=fLKYbFYOSss8nhRVRTSvww|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Diema Sport 2 HD", Diema Sport 2 HD
-https://ro.glebul.com/hls/diema-sport-2-hd/index.m3u8?e=1787171455&hash=9IunIN4Bz2MmXwZHzOYxTA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Diema Sport 3 HD", Diema Sport 3 HD
-https://ro.glebul.com/hls/diema-sport-3-hd/index.m3u8?e=1787171459&hash=pyBMQnQ8Vw4AA5d7wd04Tw|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Max Sport 1 HD", Max Sport 1 HD
-https://cdn3.glebul.com/hls/max-sport-1-hd/index.m3u8?e=1787171463&hash=fASYWJA9n9PAM7aKFcyT_A|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Max Sport 2 HD", Max Sport 2 HD
-https://ro.glebul.com/hls/max-sport-2-hd/index.m3u8?e=1787171467&hash=ypraztXGBTi8eik9x1f8lA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Max Sport 3 HD", Max Sport 3 HD
-https://cdn3.glebul.com/hls/max-sport-3-hd/index.m3u8?e=1787171470&hash=MGWo62scIqI1y6PF1HCbVw|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Max Sport 4 HD", Max Sport 4 HD
-https://ro.glebul.com/hls/max-sport-4-hd/index.m3u8?e=1787171474&hash=Jdo-htp1J2IoqlRdkW8hUg|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Bulgaria ON AIR", Bulgaria ON AIR
-https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1787171478&hash=Rnxc5dstHskqwmbTb8iCEA|Referer=https://www.seirsanduk.online/
+#EXTINF:-1 tvg-name="Diema Sport HD", Diema Sport HD
+https://cdn11.glebul.com/hls/hd-diema-sport-hd/index.m3u8?e=1787243046&hash=GS8zcvfGK_XLb_EyEQ2l3g|Referer=https://www.seirsanduk.online/
