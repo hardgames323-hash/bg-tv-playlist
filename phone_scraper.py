@@ -65,12 +65,19 @@ def update_and_push():
     print(f"Starting mobile playlist update for {len(CHANNELS)} channels...")
     
     with sync_playwright() as p:
-        # Crucial anti-crash flags for the phone environment
+        # Added autoplay bypass flag and anti-crash flags
         browser = p.chromium.launch(
             headless=True,
-            args=["--no-sandbox", "--disable-dev-shm-usage"]
+            args=[
+                "--no-sandbox", 
+                "--disable-dev-shm-usage",
+                "--autoplay-policy=no-user-gesture-required" 
+            ]
         )
+        
+        # Forced 1080p desktop viewport so the layout doesn't break
         context = browser.new_context(
+            viewport={'width': 1920, 'height': 1080},
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         )
         
@@ -90,17 +97,11 @@ def update_and_push():
                 page.goto(url, wait_until="domcontentloaded", timeout=35000)
                 page.wait_for_timeout(4000)
                 
-		# Triple-click to bypass transparent ad overlays
-                center_x = page.viewport_size['width'] / 2
-                center_y = page.viewport_size['height'] / 2
-                
-                page.mouse.click(center_x, center_y) # Click 1: Eats the ad
-                page.wait_for_timeout(1000)
-                
-                page.mouse.click(center_x, center_y) # Click 2: Eats the backup ad
-                page.wait_for_timeout(1000)
-                
-                page.mouse.click(center_x, center_y) # Click 3: Hits the actual Play button!
+                # Triple-click at the exact center of the 1080p screen to bypass ads
+                for _ in range(3):
+                    page.mouse.click(1920 / 2, 1080 / 2)
+                    page.wait_for_timeout(1000)
+                    
                 page.wait_for_timeout(8000) 
             except Exception as e:
                 # This will print exactly why it crashed if it fails again
