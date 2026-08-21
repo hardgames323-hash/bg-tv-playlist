@@ -90,8 +90,17 @@ def update_and_push():
                 page.goto(url, wait_until="domcontentloaded", timeout=35000)
                 page.wait_for_timeout(4000)
                 
-                # Clicks the center to start player
-                page.mouse.click(page.viewport_size['width'] / 2, page.viewport_size['height'] / 2)
+		# Triple-click to bypass transparent ad overlays
+                center_x = page.viewport_size['width'] / 2
+                center_y = page.viewport_size['height'] / 2
+                
+                page.mouse.click(center_x, center_y) # Click 1: Eats the ad
+                page.wait_for_timeout(1000)
+                
+                page.mouse.click(center_x, center_y) # Click 2: Eats the backup ad
+                page.wait_for_timeout(1000)
+                
+                page.mouse.click(center_x, center_y) # Click 3: Hits the actual Play button!
                 page.wait_for_timeout(8000) 
             except Exception as e:
                 # This will print exactly why it crashed if it fails again
