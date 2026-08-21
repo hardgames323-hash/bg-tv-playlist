@@ -3,7 +3,7 @@ name: Auto-Update IPTV Playlist
 # This controls when the script runs
 on:
   schedule:
-    - cron: '0 */3 * * *' # Runs exactly every 3 hours automatically
+    - cron: '0 */2 * * *' # Runs exactly every 2 hours automatically
   workflow_dispatch: # This adds a button so you can run it manually anytime
 
 jobs:
