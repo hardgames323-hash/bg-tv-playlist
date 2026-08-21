@@ -1,169 +1,169 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="bTV HD", bTV HD
-https://ro.glebul.com/hls/hd-btv-hd/index.m3u8?e=1787248152&hash=XOTtRPK0eqF4cVVHIk3sSw|Referer=https://www.seirsanduk.online/
+https://ro.glebul.com/hls/hd-btv-hd/index.m3u8?e=1787327549&hash=TsFWRjuIDGoo6egbktrCOw|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="NOVA TV HD", NOVA TV HD
-https://cdn3.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1787248159&hash=x1QyB6qzMgYnxb1vyQLQlA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="BNT 1 HD", BNT 1 HD
-https://ro.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1787248165&hash=HNTVVoEHx50tC3m9eyNL9Q|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="BNT 2", BNT 2
-https://ro.glebul.com/hls/bnt-2/index.m3u8?e=1787248172&hash=d9c5mZh3G03AUhCHQQL4kA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="BNT 3 HD", BNT 3 HD
-https://cdn3.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1787248178&hash=r45i19Yx2YNnpdl64xlacA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="BNT 4", BNT 4
-https://ssdraid.glebul.com/hls/bnt-4/index.m3u8?e=1787248184&hash=GdqLmZsO7vcb96WtBBgwIA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Bulgaria ON AIR", Bulgaria ON AIR
-https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1787248190&hash=1stHSWDQMEF1dkOElTNKTw|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Kanal 3", Kanal 3
-https://cdn3.glebul.com/hls/kanal-3/index.m3u8?e=1787248197&hash=1hGRyusC3ZIryExR62_PcA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Evrokom", Evrokom
-https://cdn11.glebul.com/hls/evrokom/index.m3u8?e=1787248203&hash=hpkZkVW7Rnx6k5e1EJvcVA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Nova News HD", Nova News HD
-https://cdn3.glebul.com/hls/hd-nova-news-hd/index.m3u8?e=1787248209&hash=8E8OjdGZFnXaViExYK032Q|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Euronews Bulgaria HD", Euronews Bulgaria HD
-https://cdn3.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1787248216&hash=3iPxs4KHJC-obhMvdpBovw|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="7/8 TV HD", 7/8 TV HD
-https://ro.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1787248222&hash=ihSajn7jaGjYp6ftkZ6Krw|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="SKAT", SKAT
-https://cdn3.glebul.com/hls/skat/index.m3u8?e=1787248228&hash=9s7nU_vBNBog0zjWsgK44w|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="VTK", VTK
-https://cdn11.glebul.com/hls/vtk/index.m3u8?e=1787248235&hash=cIYBDij11YzapadsUPHtnQ|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Diema HD", Diema HD
-https://cdn3.glebul.com/hls/hd-diema-hd/index.m3u8?e=1787248241&hash=d1QESIx3LJ2RXgtyRJhjSA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Diema Sport HD", Diema Sport HD
-https://ro.glebul.com/hls/hd-diema-sport-hd/index.m3u8?e=1787248247&hash=ihItA2H0nLyfn0a10ZySpw|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Diema Sport 2 HD", Diema Sport 2 HD
-https://cdn11.glebul.com/hls/hd-diema-sport-2-hd/index.m3u8?e=1787248253&hash=95PfJVWL-WBrvKgvuorXdA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Diema Sport 3 HD", Diema Sport 3 HD
-https://ro.glebul.com/hls/hd-diema-sport-3-hd/index.m3u8?e=1787248260&hash=sno6F1TxKc_zu4hsduHObw|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Max Sport 1 HD", Max Sport 1 HD
-https://ro.glebul.com/hls/hd-max-sport-1-hd/index.m3u8?e=1787248266&hash=onU_APfkyzloIHLDWYVN9A|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Max Sport 2 HD", Max Sport 2 HD
-https://ro.glebul.com/hls/hd-max-sport-2-hd/index.m3u8?e=1787248272&hash=H36tu_zvXxwiFPTTTMV6_A|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Max Sport 3 HD", Max Sport 3 HD
-https://cdn3.glebul.com/hls/hd-max-sport-3-hd/index.m3u8?e=1787248279&hash=lwM30GOPGxtOhfBUgNIepA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Max Sport 4 HD", Max Sport 4 HD
-https://ro.glebul.com/hls/hd-max-sport-4-hd/index.m3u8?e=1787248285&hash=TAb_gdtLEuy3WkQEQVdGAQ|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Nova Sport HD", Nova Sport HD
-https://ro.glebul.com/hls/hd-nova-sport-hd/index.m3u8?e=1787248291&hash=PWuyFBf1z6T-6Zh6FM5Uvg|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Ring BG HD", Ring BG HD
-https://cdn3.glebul.com/hls/hd-ring-bg-hd/index.m3u8?e=1787248298&hash=Gpjug0ccLiliymgvz7YLpw|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Eurosport 1 HD", Eurosport 1 HD
-https://cdn3.glebul.com/hls/hd-eurosport-1-hd/index.m3u8?e=1787248304&hash=tFb6pZ7LO9Osoxf4nlkwuA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Eurosport 2 HD", Eurosport 2 HD
-https://ro.glebul.com/hls/hd-eurosport-2-hd/index.m3u8?e=1787248310&hash=lgr-egbHlScplGyIIczrhQ|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="bTV Action HD", bTV Action HD
-https://cdn3.glebul.com/hls/hd-btv-action-hd/index.m3u8?e=1787248317&hash=Ep4zmWwcSvxzWktcm5iL8w|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="bTV Cinema", bTV Cinema
-https://ro.glebul.com/hls/btv-cinema/index.m3u8?e=1787248323&hash=C3HdsCoXmKh8r087_6e_Lw|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="bTV Comedy HD", bTV Comedy HD
-https://ro.glebul.com/hls/hd-btv-comedy-hd/index.m3u8?e=1787248329&hash=1y9V5x1YKq0QoVBKm2Y5Yg|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="bTV Story", bTV Story
-https://cdn11.glebul.com/hls/btv-story/index.m3u8?e=1787248335&hash=DCxrmkmw5qkC2IeH-uSmKg|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Kino Nova HD", Kino Nova HD
-https://ro.glebul.com/hls/hd-kino-nova-hd/index.m3u8?e=1787248342&hash=G3PTFWFCIdE6L7M2npwB7g|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Diema Family HD", Diema Family HD
-https://cdn3.glebul.com/hls/hd-diema-family-hd/index.m3u8?e=1787248348&hash=W30lfwfZ4aVqh2OZ5wIZvw|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="STAR Channel HD", STAR Channel HD
-https://cdn11.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1787248354&hash=fBUihjFzXD_7dqZ8ASHKLw|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="STAR Crime HD", STAR Crime HD
-https://cdn3.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1787248361&hash=PkxuxcOFpJmEYMkry2TCyQ|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="STAR Life HD", STAR Life HD
-https://ro.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1787248367&hash=wtU_oC6Bs5JGwBgXHS84VA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Epic Drama HD", Epic Drama HD
-https://cdn11.glebul.com/hlsfhd/hd-epic-drama-hd.m3u8?e=1787248373&hash=h62DpPEcJ5xiFE0i9QfxJA|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Max One HD", Max One HD
-https://cdn3.glebul.com/hls/hd-max-one-hd/index.m3u8?e=1787248380&hash=Q5LoBMibLjljxSgfRd4YYw|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="AXN", AXN
-https://ro.glebul.com/hls/axn/index.m3u8?e=1787248386&hash=C2WONdlpcGXVmsQG0DHD2Q|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="AXN Black", AXN Black
-https://cdn3.glebul.com/hls/axn-black/index.m3u8?e=1787248392&hash=czj6PYti8tT6kNjpQ0T5Cg|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="AXN White", AXN White
-https://cdn3.glebul.com/hls/axn-white/index.m3u8?e=1787248398&hash=M0478o9WKDrVDKXij8y4ug|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Discovery Channel HD", Discovery Channel HD
-https://cdn3.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1787248405&hash=LO5OyiSB2-r5OKbmSgopsg|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Nat Geo HD", Nat Geo HD
-https://ro.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1787248411&hash=o22OWmBvLZBIZ27NZ8X03g|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="Nat Geo Wild HD", Nat Geo Wild HD
-https://cdn3.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1787248417&hash=WK9fVY_nX3ZeAeD6zK4V4w|Referer=https://www.seirsanduk.online/
-
-#EXTINF:-1 tvg-name="ID Xtra HD", ID Xtra HD
-https://cdn3.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1787248424&hash=aDBjzvJqFWAcYO9wBx50-g|Referer=https://www.seirsanduk.online/
+https://ro.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1787327555&hash=9A9cWgnkeRRDgpZ4PO8y5Q|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Viasat Explore HD", Viasat Explore HD
-https://ro.glebul.com/hls/hd-viasat-explore-hd/index.m3u8?e=1787248430&hash=vCX-dCN9PgkI0d_IlS_9dw|Referer=https://www.seirsanduk.online/
+https://ro.glebul.com/hls/hd-viasat-explore-hd/index.m3u8?e=1787327562&hash=65xV7M6awEJ1FyVfWTvCpg|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Travel Channel HD", Travel Channel HD
-https://cdn3.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1787248436&hash=d7VoT3roZXQy8kTh_81mqA|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1787327568&hash=khK91WYzpbX-r1QX2HW_yw|Referer=https://www.seirsanduk.online/
 
-#EXTINF:-1 tvg-name="Travel TV", Travel TV
-https://cdn11.glebul.com/hls/travel-tv/index.m3u8?e=1787248443&hash=TeT-W381-Q4Y59UBbnkfLw|Referer=https://www.seirsanduk.online/
+#EXTINF:-1 tvg-name="BNT 1 HD", BNT 1 HD
+https://cdn11.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1787327575&hash=GIVgm490uLk0_0sa7qoglQ|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="24 Kitchen HD", 24 Kitchen HD
-https://ro.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1787248449&hash=QIc4sE_QRcvIhXMwky_j1g|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1787327581&hash=V21ZASXskHn3kERoNs34-A|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="BNT 2", BNT 2
+https://ro.glebul.com/hls/bnt-2/index.m3u8?e=1787327587&hash=jVBYdYnxKh4AcKxR6RBIOw|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="BNT 3 HD", BNT 3 HD
+https://cdn3.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1787327594&hash=RB3JMTt2N9AFxGUaB2gDqQ|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="BNT 4", BNT 4
+https://ssdraid.glebul.com/hls/bnt-4/index.m3u8?e=1787327600&hash=rDd1inz8NOdAeoC6GrXKwg|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Bulgaria ON AIR", Bulgaria ON AIR
+https://ro.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1787327606&hash=7EJvM0vy2t218r7PgIEmHg|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Kanal 3", Kanal 3
+https://cdn3.glebul.com/hls/kanal-3/index.m3u8?e=1787327612&hash=czEeNCZ375SF8GmR-fPcJQ|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Evrokom", Evrokom
+https://ro.glebul.com/hls/evrokom/index.m3u8?e=1787327619&hash=T4IjqGjDQrta33De4pQtTg|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Nova News HD", Nova News HD
+https://cdn3.glebul.com/hls/hd-nova-news-hd/index.m3u8?e=1787327625&hash=MIUW1rCkSE1e_ZGs-Wzx_Q|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Euronews Bulgaria HD", Euronews Bulgaria HD
+https://cdn3.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1787327631&hash=iUqGgAFCoIJg9na4nUuuWg|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="7/8 TV HD", 7/8 TV HD
+https://cdn3.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1787327637&hash=vdLC7z1RMH8znBG7LTT1og|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="SKAT", SKAT
+https://cdn11.glebul.com/hls/skat/index.m3u8?e=1787327644&hash=f5UOXG4RwbgkZLSabpTIdQ|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="VTK", VTK
+https://cdn3.glebul.com/hls/vtk/index.m3u8?e=1787327650&hash=47ipxztsp1gZP-u-6DN-pw|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="bTV Comedy HD", bTV Comedy HD
+https://ro.glebul.com/hls/hd-btv-comedy-hd/index.m3u8?e=1787327656&hash=FEAXogDTPb-6eDXF5Ay7aQ|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="bTV Action HD", bTV Action HD
+https://ro.glebul.com/hls/hd-btv-action-hd/index.m3u8?e=1787327662&hash=2o5IKq67q1_2uWyePiWXcQ|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="bTV Cinema", bTV Cinema
+https://ro.glebul.com/hls/btv-cinema/index.m3u8?e=1787327669&hash=e9vH9D6bLC7cg41JeTJdHQ|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="bTV Story", bTV Story
+https://ro.glebul.com/hls/btv-story/index.m3u8?e=1787327675&hash=g2rs5ocLgOatzkzXx9IAtQ|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Kino Nova HD", Kino Nova HD
+https://ro.glebul.com/hls/hd-kino-nova-hd/index.m3u8?e=1787327681&hash=1yg_wW5OaMSHFBZxKotemQ|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Diema Family HD", Diema Family HD
+https://ro.glebul.com/hls/hd-diema-family-hd/index.m3u8?e=1787327687&hash=q5X9UdWqQgl8iagIYhTOOA|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="STAR Channel HD", STAR Channel HD
+https://cdn3.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1787327694&hash=4KZ8T0zTcUR1sDGQtg3jhw|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="STAR Crime HD", STAR Crime HD
+https://ro.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1787327700&hash=ImB9XIdH7r82VlwXC-Ifow|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="STAR Life HD", STAR Life HD
+https://ro.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1787327706&hash=hf2U7ufL0exCYfcOIQsqCg|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Epic Drama HD", Epic Drama HD
+https://cdn11.glebul.com/hlsfhd/hd-epic-drama-hd.m3u8?e=1787327712&hash=fqvoD_1ceA3x8-v-R8HjpQ|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="AXN", AXN
+https://ro.glebul.com/hls/axn/index.m3u8?e=1787327719&hash=jAZuuFVF3RudnG2ZN7Kk2w|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="AXN Black", AXN Black
+https://cdn3.glebul.com/hls/axn-black/index.m3u8?e=1787327725&hash=eM9oDuc13c1rUHYWzQe0Kg|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="AXN White", AXN White
+https://cdn3.glebul.com/hls/axn-white/index.m3u8?e=1787327731&hash=rtGg2CcvPezs4JcwpvRLPQ|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Discovery Channel HD", Discovery Channel HD
+https://ro.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1787327738&hash=IRSqtiyPgdqaekYAovEDkQ|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Nat Geo HD", Nat Geo HD
+https://ro.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1787327744&hash=GINskkR3x1HBpLrpZnn3RA|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Nat Geo Wild HD", Nat Geo Wild HD
+https://cdn11.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1787327750&hash=zVE5FTc5ONGjUeyMHw5q6g|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="ID Xtra HD", ID Xtra HD
+https://cdn3.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1787327756&hash=goR01Wwf3d_wfXJ-yM-IkQ|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Travel TV", Travel TV
+https://cdn3.glebul.com/hls/travel-tv/index.m3u8?e=1787327763&hash=EsM3m9b-bbdYBE6J3mbnfw|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Food Network HD", Food Network HD
-https://ro.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1787248456&hash=eczRwB5f08LiDDLSrUpSlA|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1787327769&hash=LMjVi8t6Jkau6jCzkcdx_g|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="TLC", TLC
-https://ro.glebul.com/hls/tlc/index.m3u8?e=1787248462&hash=qu1LZLux_EKhyLc24MgKug|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/tlc/index.m3u8?e=1787327775&hash=xsUTdxrKL6ttc6Duumc51Q|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Code Fashion TV HD", Code Fashion TV HD
-https://cdn3.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1787248468&hash=4VqrzNd3hTbQ6OUAQ_xB9g|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1787327781&hash=RcZ29HcfywRUDuRx1fp86g|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="City TV", City TV
-https://ro.glebul.com/hls/city-tv/index.m3u8?e=1787248474&hash=nytPjZSHsOGPG7ltQiMGtA|Referer=https://www.seirsanduk.online/
+https://ro.glebul.com/hls/city-tv/index.m3u8?e=1787327788&hash=GZN2WeXrZ-FSxGJHaKNjBQ|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="The Voice", The Voice
-https://ro.glebul.com/hls/the-voice/index.m3u8?e=1787248481&hash=jB0Zf7rQtGGsniSP3yNCNw|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/the-voice/index.m3u8?e=1787327794&hash=wV0O2U8IqS4w_5zmr_olSA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Planeta HD", Planeta HD
-https://cdn11.glebul.com/hls/hd-planeta-hd/index.m3u8?e=1787248487&hash=Srdb08kGPAA8SCNMTc8HrA|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/hd-planeta-hd/index.m3u8?e=1787327800&hash=oD6QJYLVxtjTMXbHgt6XGQ|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="DSTV", DSTV
-https://cdn3.glebul.com/hls/dstv/index.m3u8?e=1787248493&hash=GdudvGj_fS0GPy1-yPJAQw|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/dstv/index.m3u8?e=1787327806&hash=3CtenUdGDlfu1E1pRuOFCg|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Bloomberg TV", Bloomberg TV
-https://cdn3.glebul.com/hls/bloomberg-tv/index.m3u8?e=1787248500&hash=aAt-5-Md09E0HdhZ0tfpEw|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/bloomberg-tv/index.m3u8?e=1787327813&hash=wYVustssmvfrmwILfAK_cg|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Diema HD", Diema HD
+https://ro.glebul.com/hls/hd-diema-hd/index.m3u8?e=1787327819&hash=25mkIK1gKWvy7JkiV8Foeg|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Diema Sport HD", Diema Sport HD
+https://cdn3.glebul.com/hlsfhd/hd-diema-sport-hd.m3u8?e=1787327825&hash=0jgv7l7J7KzX5gZlDR4O5g|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Diema Sport 2 HD", Diema Sport 2 HD
+https://cdn11.glebul.com/hlsfhd/hd-diema-sport-2-hd.m3u8?e=1787327832&hash=7891vqB5R_pGGaBLGm-DWA|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Diema Sport 3 HD", Diema Sport 3 HD
+https://ro.glebul.com/hlsfhd/hd-diema-sport-3-hd.m3u8?e=1787327838&hash=ViBva0Dy9Ee5jc0YnDewYg|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Max Sport 1 HD", Max Sport 1 HD
+https://mx86.glebul.com/hlsfhd/hd-max-sport-1-hd.m3u8?e=1787327844&hash=8twhpakaSyLc6p4HrYMbJw|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Max Sport 2 HD", Max Sport 2 HD
+https://cdn11.glebul.com/hlsfhd/hd-max-sport-2-hd.m3u8?e=1787327851&hash=S5jaHqGh4exC2suGleAV2g|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Max Sport 3 HD", Max Sport 3 HD
+https://cdn3.glebul.com/hlsfhd/hd-max-sport-3-hd.m3u8?e=1787327857&hash=HEH5V1sOorrc1bvwxRd2WA|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Max Sport 4 HD", Max Sport 4 HD
+https://ro.glebul.com/hlsfhd/hd-max-sport-4-hd.m3u8?e=1787327864&hash=ANjUpo_zKbirHzKXV8Pn7Q|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Nova Sport HD", Nova Sport HD
+https://cdn3.glebul.com/hlsfhd/hd-nova-sport-hd.m3u8?e=1787327870&hash=GBpMXZgmpiSjDGK-2fjQEA|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Ring BG HD", Ring BG HD
+https://cdn3.glebul.com/hlsfhd/hd-ring-bg-hd.m3u8?e=1787327876&hash=L_cilc9h3CY-458EVqvYMA|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Eurosport 1 HD", Eurosport 1 HD
+https://ro.glebul.com/hlsfhd/hd-eurosport-1-hd.m3u8?e=1787327883&hash=bFRpqslXCG6bpR3VUFfNdA|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Eurosport 2 HD", Eurosport 2 HD
+https://cdn3.glebul.com/hlsfhd/hd-eurosport-2-hd.m3u8?e=1787327889&hash=Jih_-L6or8BA_N_fbbod2w|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Max One HD", Max One HD
+https://ro.glebul.com/hls/hd-max-one-hd/index.m3u8?e=1787327895&hash=nmexjOkmUGUt5I7LGXapgA|Referer=https://www.seirsanduk.online/
