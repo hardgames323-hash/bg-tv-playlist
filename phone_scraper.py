@@ -65,21 +65,17 @@ def update_and_push():
     print(f"Starting mobile playlist update for {len(CHANNELS)} channels...")
     
     with sync_playwright() as p:
-        # Added critical Linux hardware bypass flags
+        # Standard anti-crash flags for Android Termux
         browser = p.chromium.launch(
             headless=True,
-            args=[
-                "--no-sandbox", 
-                "--disable-dev-shm-usage",
-                "--autoplay-policy=no-user-gesture-required",
-                "--mute-audio", 
-                "--disable-gpu",
-                "--disable-software-rasterizer"
-            ]
+            args=["--no-sandbox", "--disable-dev-shm-usage"]
         )
         
+        # THE FIX: Forcing a Bulgarian locale and 1080p screen to prevent site JS from crashing
         context = browser.new_context(
             viewport={'width': 1920, 'height': 1080},
+            locale='bg-BG',
+            timezone_id='Europe/Sofia',
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
         )
         
@@ -95,23 +91,15 @@ def update_and_push():
             page.on("response", capture)
             
             try:
-                page.goto(url, wait_until="domcontentloaded", timeout=35000)
+                page.goto(url, wait_until="domcontentloaded", timeout=30000)
                 page.wait_for_timeout(4000)
                 
-                # Move the mouse before clicking to look human
-                page.mouse.move(1920 / 2, 1080 / 2)
-                page.wait_for_timeout(500)
-                
-                # Click with a 150ms delay to simulate a real physical button press
-                for _ in range(3):
-                    page.mouse.click(1920 / 2, 1080 / 2, delay=150)
-                    page.wait_for_timeout(1500)
-                
-                # Force play with the keyboard in case the click missed focus
-                page.keyboard.press("Space")
+                # Blind click the exact center of the 1080p screen
+                page.mouse.click(1920 / 2, 1080 / 2)
                 page.wait_for_timeout(8000) 
                 
             except Exception as e:
+                # Log any errors just in case
                 print(f"  ✗ {name} (Error: {type(e).__name__} - {e})")
 
             if stream_url:
@@ -136,7 +124,7 @@ def update_and_push():
         os.system('git config user.name "TV Server Phone"')
         os.system('git config user.email "tvphone@server.local"')
         os.system("git add playlist.m3u")
-        os.system('git commit -m "Fixed Linux media crashes"')
+        os.system('git commit -m "Auto-update tokens from Phone"')
         os.system("git push --force")
         print("Done! The playlist is live.")
     else:
