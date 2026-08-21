@@ -65,17 +65,19 @@ def update_and_push():
     print(f"Starting mobile playlist update for {len(CHANNELS)} channels...")
     
     with sync_playwright() as p:
-        # Added autoplay bypass flag and anti-crash flags
+        # Added critical Linux hardware bypass flags
         browser = p.chromium.launch(
             headless=True,
             args=[
                 "--no-sandbox", 
                 "--disable-dev-shm-usage",
-                "--autoplay-policy=no-user-gesture-required" 
+                "--autoplay-policy=no-user-gesture-required",
+                "--mute-audio", 
+                "--disable-gpu",
+                "--disable-software-rasterizer"
             ]
         )
         
-        # Forced 1080p desktop viewport so the layout doesn't break
         context = browser.new_context(
             viewport={'width': 1920, 'height': 1080},
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
@@ -93,18 +95,23 @@ def update_and_push():
             page.on("response", capture)
             
             try:
-                # Extended timeouts for mobile connections
                 page.goto(url, wait_until="domcontentloaded", timeout=35000)
                 page.wait_for_timeout(4000)
                 
-                # Triple-click at the exact center of the 1080p screen to bypass ads
+                # Move the mouse before clicking to look human
+                page.mouse.move(1920 / 2, 1080 / 2)
+                page.wait_for_timeout(500)
+                
+                # Click with a 150ms delay to simulate a real physical button press
                 for _ in range(3):
-                    page.mouse.click(1920 / 2, 1080 / 2)
-                    page.wait_for_timeout(1000)
-                    
+                    page.mouse.click(1920 / 2, 1080 / 2, delay=150)
+                    page.wait_for_timeout(1500)
+                
+                # Force play with the keyboard in case the click missed focus
+                page.keyboard.press("Space")
                 page.wait_for_timeout(8000) 
+                
             except Exception as e:
-                # This will print exactly why it crashed if it fails again
                 print(f"  ✗ {name} (Error: {type(e).__name__} - {e})")
 
             if stream_url:
@@ -129,7 +136,7 @@ def update_and_push():
         os.system('git config user.name "TV Server Phone"')
         os.system('git config user.email "tvphone@server.local"')
         os.system("git add playlist.m3u")
-        os.system('git commit -m "Auto-update tokens from Phone"')
+        os.system('git commit -m "Fixed Linux media crashes"')
         os.system("git push --force")
         print("Done! The playlist is live.")
     else:
