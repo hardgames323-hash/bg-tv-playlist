@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          git add playlist.m3u
-          # The || true prevents the bot from crashing if the tokens haven't expired/changed
-          git commit -m "Auto-update tokens from cloud" || true
+          date > update.log
+          git add playlist.m3u update.log
+          git commit -m "Auto-update tokens" || true
           git push
