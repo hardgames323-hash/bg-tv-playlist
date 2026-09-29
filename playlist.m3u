@@ -1,166 +1,169 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="bTV HD", bTV HD
-https://cdn3.glebul.com/hls/hd-btv-hd/index.m3u8?e=1790679667&hash=uvrwa5NPzUccozthdza6Pg|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-btv-hd/index.m3u8?e=1790683271&hash=CJn44hFt6dyoh0nvjc36Hw|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="NOVA TV HD", NOVA TV HD
-https://cdn11.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1790679675&hash=E_zNYYwGRedi5vHrQpUE-Q|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1790683277&hash=2L07EnpzY4t-7Z38YMx7FQ|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Viasat Explore HD", Viasat Explore HD
-https://cdn3.glebul.com/hls/hd-viasat-explore-hd/index.m3u8?e=1790679682&hash=mrEHaFZCzcOMyYUeB5patg|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-viasat-explore-hd/index.m3u8?e=1790683284&hash=xDE0BvKGgzeaViTutAC1GA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Travel Channel HD", Travel Channel HD
-https://cdn3.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1790679688&hash=Jwyi6frnTT1fuf4gjPd_3w|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1790683291&hash=LEFP_LTWOH8BpM4uDd9gLw|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="BNT 1 HD", BNT 1 HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=-955636979&e=e&tv=2.20.2&n=0419642447380992&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1u2m8fl163gl&ph=0&pid=&pgi=1ah0xxpjnwg4&prc=1&stc=1&lid=tiis2nxqlsbl&pli=1baaq64n3lcy&id=&tvs=0&set=&c=-1&ask=&fv=&plt=700&st=260&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-bnt-1-hd%2Findex.m3u8%3Fe%3D1790679695%26hash%3DFUIMG15zoxtmOwbze94z1Q&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-bnt-1-hd%26pass%3D%26hash%3D&pt=Bnt%201%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20bnt%201%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=1748271&e=e&tv=2.20.2&n=2608760537832002&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=645ifs1t6m8x&ph=0&pid=&pgi=15lorwbgnxx3&prc=1&stc=1&lid=engw101419oq&pli=1l2z3ob1yh79&id=&tvs=0&set=&c=-1&ask=&fv=&plt=650&st=270&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-bnt-1-hd%2Findex.m3u8%3Fe%3D1790683298%26hash%3DwIewv7tWqAWrCK9O4YPyUw&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-bnt-1-hd%26pass%3D%26hash%3D&pt=Bnt%201%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20bnt%201%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="24 Kitchen HD", 24 Kitchen HD
-https://cdn11.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1790679702&hash=4vSIdEjQVkKCytzhdzdaEw|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1790683304&hash=pHET0ORQ0ucG6Jy5PnCarg|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="BNT 2", BNT 2
-https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1790679708&hash=1g7HkurKdd1ka7vWEpvWoA|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1790683311&hash=2jBi5UZP0oJkZEfJbh_6TQ|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="BNT 3 HD", BNT 3 HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=735063971&e=e&tv=2.20.2&n=1218130477411901&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1w4ffjdwb7ij&ph=0&pid=&pgi=p3titr1yjl30&prc=1&stc=1&lid=tiis2nxqlsbl&pli=1y0vrzr7zzyn&id=&tvs=0&set=&c=-1&ask=&fv=&plt=750&st=260&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-bnt-3-hd%2Findex.m3u8%3Fe%3D1790679715%26hash%3Dn0u2ynzcaoqldxZap7rIgg&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-bnt-3-hd%26pass%3D%26hash%3D&pt=Bnt%203%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20bnt%203%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=-1033223578&e=e&tv=2.20.2&n=2472738930475197&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1b1b8d2zs35f&ph=0&pid=&pgi=71veejrt29ts&prc=1&stc=1&lid=engw101419oq&pli=5q38w5eb9y16&id=&tvs=0&set=&c=-1&ask=&fv=&plt=750&st=300&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-bnt-3-hd%2Findex.m3u8%3Fe%3D1790683317%26hash%3DVf-NEe4X8CRUqRxZxo5oRg&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-bnt-3-hd%26pass%3D%26hash%3D&pt=Bnt%203%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20bnt%203%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="BNT 4", BNT 4
-https://ssdraid.glebul.com/hls/bnt-4/index.m3u8?e=1790679721&hash=72YyrC-HW1SzOJL-Tln_dA|Referer=https://www.seirsanduk.online/
+https://ssdraid.glebul.com/hls/bnt-4/index.m3u8?e=1790683324&hash=_0HJfWF9t3Vuu3_0C5hByA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Bulgaria ON AIR", Bulgaria ON AIR
-https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1790679728&hash=Uu7h_Z5zs1Evj8mXYStYMA|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1790683330&hash=w7tZAp2kAxKKGzjdU27E9A|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Kanal 3", Kanal 3
-https://cdn3.glebul.com/hls/kanal-3/index.m3u8?e=1790679735&hash=2i5NKPzD7V1tBs2iT0HJCw|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/kanal-3/index.m3u8?e=1790683337&hash=87DChb3A9PER4a0HS3KNIg|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Evrokom", Evrokom
-https://cdn3.glebul.com/hls/evrokom/index.m3u8?e=1790679741&hash=PX7w-ZPCD6PTdVPUReBAqQ|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/evrokom/index.m3u8?e=1790683343&hash=PqIikGEhffznoPSEUunDcg|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Nova News HD", Nova News HD
-https://cdn3.glebul.com/hls/hd-nova-news-hd/index.m3u8?e=1790679748&hash=_aadNRKEaKnGoBV8Kb2SdA|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-nova-news-hd/index.m3u8?e=1790683350&hash=MCGOoWCao-Dq9EWTRUPYDQ|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Euronews Bulgaria HD", Euronews Bulgaria HD
-https://cdn11.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1790679755&hash=qA6hEKzL5POL00-kgDf6Dw|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1790683356&hash=qyc3LtSXa1vcLdy9QJs_RA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="7/8 TV HD", 7/8 TV HD
-https://cdn11.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1790679761&hash=9OE5VIXew5udAJWAH9AQHQ|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1790683363&hash=dbg3c2wi3jP4qkSIAPdlAA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="SKAT", SKAT
-https://cdn3.glebul.com/hls/skat/index.m3u8?e=1790679768&hash=LDlOUlrL7_4wHuSroeJlGg|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/skat/index.m3u8?e=1790683369&hash=UB6iWVQDCIbew_uOPtEk1g|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="VTK", VTK
-https://cdn3.glebul.com/hls/vtk/index.m3u8?e=1790679774&hash=u6Z8gykRNvkgthQgJIHuQg|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/vtk/index.m3u8?e=1790683376&hash=iRV6FXxsI5vVEcTqfuPUiA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="bTV Comedy HD", bTV Comedy HD
-https://cdn3.glebul.com/hls/hd-btv-comedy-hd/index.m3u8?e=1790679781&hash=WZes2e3DPjHZ7Qxp8ECA-Q|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/hd-btv-comedy-hd/index.m3u8?e=1790683383&hash=TzHTdn0h3V7sbDTGX-VAtA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="bTV Action HD", bTV Action HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=2009152756&e=e&tv=2.20.2&n=5592352899914277&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1f6jp88y320g&ph=0&pid=&pgi=1q7zj8v158uj&prc=1&stc=1&lid=tiis2nxqlsbl&pli=pnba5o5p06q4&id=&tvs=0&set=&c=-1&ask=&fv=&plt=750&st=300&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-btv-action-hd%2Findex.m3u8%3Fe%3D1790679788%26hash%3DkIj477J0tx5dxwYaMX3MuA&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-btv-action-hd%26pass%3D%26hash%3D&pt=Btv%20Action%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20btv%20action%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=-1143363592&e=e&tv=2.20.2&n=5227820094036699&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1t8tm9t179wd&ph=0&pid=&pgi=p49ecyrsfky7&prc=1&stc=1&lid=engw101419oq&pli=1jqjwkxfwikg&id=&tvs=0&set=&c=-1&ask=&fv=&plt=650&st=250&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-btv-action-hd%2Findex.m3u8%3Fe%3D1790683389%26hash%3DfYbUyUPOm34aqsEm8ovRSw&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-btv-action-hd%26pass%3D%26hash%3D&pt=Btv%20Action%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20btv%20action%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="bTV Cinema", bTV Cinema
-https://cdn3.glebul.com/hls/btv-cinema/index.m3u8?e=1790679794&hash=QkaXmtmfXkdZnQ8bfh-MBA|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/btv-cinema/index.m3u8?e=1790683396&hash=jsHthXfEEwprrBW6oCeepg|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="bTV Story", bTV Story
-https://cdn11.glebul.com/hls/btv-story/index.m3u8?e=1790679801&hash=z2XJhF9zXxlglei9ohGARw|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/btv-story/index.m3u8?e=1790683402&hash=y9evQU0N_O17-USNOaERuA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Kino Nova HD", Kino Nova HD
-https://cdn3.glebul.com/hls/hd-kino-nova-hd/index.m3u8?e=1790679807&hash=nvYcJay12WNwTqXH_RwJzw|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-kino-nova-hd/index.m3u8?e=1790683409&hash=sj9R3ygmkthj3AIIJzWtSg|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Diema Family HD", Diema Family HD
-https://cdn3.glebul.com/hls/hd-diema-family-hd/index.m3u8?e=1790679814&hash=-hW8AFYyWhKfGM1M87ve5A|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-diema-family-hd/index.m3u8?e=1790683415&hash=3zXyrpUbKu2Fw1N37KQ5tA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="STAR Channel HD", STAR Channel HD
-https://cdn3.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1790679821&hash=eiUFLwBGPtRIk2LNotuWbQ|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1790683422&hash=5Rl-Hd0CDXZssyy3r4OSCg|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="STAR Crime HD", STAR Crime HD
-https://cdn3.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1790679828&hash=Fo5fSkAdjAocQxHF5y--pw|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1790683428&hash=vf210enh-Hjy2G52Rv28vw|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="STAR Life HD", STAR Life HD
-https://cdn11.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1790679834&hash=3TjF_P4sp4xkMYwx9JWb8A|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1790683435&hash=slbSwQwlE89tPi4RZtLf_g|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Epic Drama HD", Epic Drama HD
-https://cdn11.glebul.com/hlsfhd/hd-epic-drama-hd.m3u8?e=1790679841&hash=1I5mUjuectwYRsHndfSccA|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hlsfhd/hd-epic-drama-hd.m3u8?e=1790683441&hash=hTKP7gUeXcqhEQnPyrJlbg|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="AXN", AXN
-https://cdn3.glebul.com/hls/axn/index.m3u8?e=1790679848&hash=thgCMFuXALWrIlvrGLgO0g|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/axn/index.m3u8?e=1790683448&hash=pdClhtcJz81nQwTuCOoIqQ|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="AXN Black", AXN Black
-https://cdn3.glebul.com/hls/axn-black/index.m3u8?e=1790679854&hash=at2OAJ88FTA85N5kjE9rjw|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/axn-black/index.m3u8?e=1790683454&hash=E1Eb-di9swz3bcTeDMeCaA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="AXN White", AXN White
-https://cdn3.glebul.com/hls/axn-white/index.m3u8?e=1790679861&hash=7fvmpbeieB0cb_fiepffVg|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/axn-white/index.m3u8?e=1790683461&hash=Zhs8bY9h36N-_YkF7uUtRA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Discovery Channel HD", Discovery Channel HD
-https://cdn3.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1790679868&hash=EEPbgsGS5KoKYHZt4uBIYA|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1790683468&hash=rmBJGZmXwKtoQ8WoxAa8XA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Nat Geo HD", Nat Geo HD
-https://cdn3.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1790679874&hash=Dt3QsnUt7BP7zHoLE9UkFA|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1790683474&hash=oZhSCPeBOirbv-FASLxTHw|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Nat Geo Wild HD", Nat Geo Wild HD
-https://cdn11.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1790679881&hash=ImcyrCIAh55-b_daFVvP-A|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1790683481&hash=HjcExwTu6zAa_risYRv4_A|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="ID Xtra HD", ID Xtra HD
-https://cdn11.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1790679888&hash=ktXYasj4771qAneUvNGxxw|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1790683487&hash=wjbskED3p3eEKd_DPkWQ4Q|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Travel TV", Travel TV
-https://cdn11.glebul.com/hls/travel-tv/index.m3u8?e=1790679894&hash=duePLttz11tI8b9WtyoVPQ|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/travel-tv/index.m3u8?e=1790683494&hash=Wt0mCw9ngRwGl8xWI-lVjw|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Food Network HD", Food Network HD
-https://cdn11.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1790679901&hash=vbuc7GkKwMSTI380zZisvg|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1790683501&hash=XMLwYlEV5qvq_CfzOLD28A|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="TLC", TLC
-https://cdn3.glebul.com/hls/tlc/index.m3u8?e=1790679908&hash=jnfFSVDoIp8_V3AnMoSBwA|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/tlc/index.m3u8?e=1790683507&hash=xBM_TY6JaXFqCBKT3Ao6xA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Code Fashion TV HD", Code Fashion TV HD
-https://cdn11.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1790679914&hash=1cbKITEdT_IgVeDzX4HseA|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1790683514&hash=VaGrF43fH1p2n3vSOZjWhw|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="City TV", City TV
-https://cdn3.glebul.com/hls/city-tv/index.m3u8?e=1790679921&hash=yL0rpOtrI_FOkp5bwQiYbQ|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/city-tv/index.m3u8?e=1790683521&hash=rNdpubgSEZ791KNOFzCH0w|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="The Voice", The Voice
-https://cdn11.glebul.com/hls/the-voice/index.m3u8?e=1790679928&hash=F2FKiJZMfKn8rSjIJlVU1Q|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/the-voice/index.m3u8?e=1790683528&hash=uU8sa4bzwjSPj5DM5EyTdA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Planeta HD", Planeta HD
-https://cdn3.glebul.com/hls/hd-planeta-hd/index.m3u8?e=1790679934&hash=A5HePjzjAIQm5ZpQdi2xKw|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-planeta-hd/index.m3u8?e=1790683537&hash=SRO67L9Xt_Pt1fPZyJI7Tw|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="DSTV", DSTV
-https://cdn3.glebul.com/hls/dstv/index.m3u8?e=1790679941&hash=4LupMuu4Qfqiv2paTKkI4w|Referer=https://www.seirsanduk.online/
+https://cdn11.glebul.com/hls/dstv/index.m3u8?e=1790683545&hash=eSIBC_e60CpeniXMJmlstQ|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Bloomberg TV", Bloomberg TV
-https://cdn3.glebul.com/hls/bloomberg-tv/index.m3u8?e=1790679950&hash=NMttlmzbAXFKI6EUSdlNXg|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/bloomberg-tv/index.m3u8?e=1790683553&hash=6Bzpj5wWSljEJelgRh9Ctw|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Diema HD", Diema HD
-https://cdn3.glebul.com/hls/hd-diema-hd/index.m3u8?e=1790679958&hash=iiCJzfa84GjaIxNEGcVRGw|Referer=https://www.seirsanduk.online/
+https://cdn3.glebul.com/hls/hd-diema-hd/index.m3u8?e=1790683561&hash=a4NKD7agJ5BLiIUIfDvVuA|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Diema Sport HD", Diema Sport HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=1320605820&e=e&tv=2.20.2&n=5494154156180445&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=18unbg81y4ff&ph=0&pid=&pgi=piylp7jha17x&prc=1&stc=1&lid=tiis2nxqlsbl&pli=1cbch321mzkm&id=&tvs=0&set=&c=-1&ask=&fv=&plt=2850&st=1530&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-diema-sport-hd%2Findex.m3u8%3Fe%3D1790679966%26hash%3D1pQmovJt5einQZouhMPoPQ&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-diema-sport-hd%26pass%3D%26hash%3D&pt=Diema%20Sport%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20diema%20sport%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=941919326&e=e&tv=2.20.2&n=4273112379542094&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=xqj9yh7lpgsm&ph=0&pid=&pgi=1amiioi1g4a5&prc=1&stc=1&lid=engw101419oq&pli=1beh8c1jiock&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3000&st=1420&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-diema-sport-hd%2Findex.m3u8%3Fe%3D1790683569%26hash%3DutzwCkcbLMuMPT6lsICnEw&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-diema-sport-hd%26pass%3D%26hash%3D&pt=Diema%20Sport%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20diema%20sport%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Diema Sport 2 HD", Diema Sport 2 HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=-2049279535&e=e&tv=2.20.2&n=8298667789667838&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=v6np6s1affmj&ph=0&pid=&pgi=by8x6f16arwr&prc=1&stc=1&lid=tiis2nxqlsbl&pli=1s88ee1osawo&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3250&st=1590&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-diema-sport-2-hd%2Findex.m3u8%3Fe%3D1790679974%26hash%3Dndyk2nJQ1_DxL6m_Hs0vzQ&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-diema-sport-2-hd%26pass%3D%26hash%3D&pt=Diema%20Sport%202%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20diema%20sport%202%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=937182156&e=e&tv=2.20.2&n=7156149479467366&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1vxzwi01o1hb&ph=0&pid=&pgi=1fqjn1v1jpjc&prc=1&stc=1&lid=engw101419oq&pli=q3ppo81n8nvh&id=&tvs=0&set=&c=-1&ask=&fv=&plt=2300&st=1000&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-diema-sport-2-hd%2Findex.m3u8%3Fe%3D1790683578%26hash%3Dk2t6rIqidyfNwjoVD7XXgA&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-diema-sport-2-hd%26pass%3D%26hash%3D&pt=Diema%20Sport%202%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20diema%20sport%202%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+
+#EXTINF:-1 tvg-name="Diema Sport 3 HD", Diema Sport 3 HD
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=1278072185&e=e&tv=2.20.2&n=5170613258956519&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=oj7gccxaonpe&ph=0&pid=&pgi=s9trefhoshc3&prc=1&stc=1&lid=engw101419oq&pli=19mhxsw1j8fr&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3550&st=1800&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-diema-sport-3-hd%2Findex.m3u8%3Fe%3D1790683586%26hash%3DLqKP_B5rMnCcIuGpT7cSJw&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-diema-sport-3-hd%26pass%3D%26hash%3D&pt=Diema%20Sport%203%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20diema%20sport%203%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Max Sport 1 HD", Max Sport 1 HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=117371450&e=e&tv=2.20.2&n=6686180105289640&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=k7pimnaq7g7e&ph=0&pid=&pgi=1chjz811lez7&prc=1&stc=1&lid=tiis2nxqlsbl&pli=11xi021f4q9m&id=&tvs=0&set=&c=-1&ask=&fv=&plt=1850&st=630&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-max-sport-1-hd%2Findex.m3u8%3Fe%3D1790679991%26hash%3DzpEjE2r6NM3KjHQI-onqOA&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-max-sport-1-hd%26pass%3D%26hash%3D&pt=Max%20Sport%201%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20max%20sport%201%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=-1023846321&e=e&tv=2.20.2&n=0629937055358746&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1gnthuaihxg7&ph=0&pid=&pgi=zlfxmlx9cyhp&prc=1&stc=1&lid=engw101419oq&pli=1pge3jjhosxr&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3050&st=1740&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-max-sport-1-hd%2Findex.m3u8%3Fe%3D1790683595%26hash%3DEWx6oZozZ-l9LUkNXJTalA&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-max-sport-1-hd%26pass%3D%26hash%3D&pt=Max%20Sport%201%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20max%20sport%201%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Max Sport 2 HD", Max Sport 2 HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=-708284081&e=e&tv=2.20.2&n=8159819059733721&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1v8l75f1mf4d&ph=0&pid=&pgi=1uelpo41et6a&prc=1&stc=1&lid=tiis2nxqlsbl&pli=z92yoz14a9u3&id=&tvs=0&set=&c=-1&ask=&fv=&plt=2650&st=1460&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-max-sport-2-hd%2Findex.m3u8%3Fe%3D1790679998%26hash%3DVWYNPBIh6_Jv0oescIUB1g&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-max-sport-2-hd%26pass%3D%26hash%3D&pt=Max%20Sport%202%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20max%20sport%202%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=-954810416&e=e&tv=2.20.2&n=8409222618769796&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1bdjvpf1drrh&ph=0&pid=&pgi=1v0c8bm163g0&prc=1&stc=1&lid=engw101419oq&pli=6k5ui11rjumg&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3050&st=1590&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-max-sport-2-hd%2Findex.m3u8%3Fe%3D1790683603%26hash%3DKGytWR7xLdGNtknknoxitg&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-max-sport-2-hd%26pass%3D%26hash%3D&pt=Max%20Sport%202%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20max%20sport%202%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Max Sport 3 HD", Max Sport 3 HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=146702033&e=e&tv=2.20.2&n=7890198522247693&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=gfgn6m1cel1q&ph=0&pid=&pgi=pled0p1mj2oz&prc=1&stc=1&lid=tiis2nxqlsbl&pli=1vzkbq510sr5&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3150&st=1690&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-max-sport-3-hd%2Findex.m3u8%3Fe%3D1790680006%26hash%3Dggb2wUW8J8tG6AcyQo1eNQ&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-max-sport-3-hd%26pass%3D%26hash%3D&pt=Max%20Sport%203%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20max%20sport%203%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=-1559206931&e=e&tv=2.20.2&n=2022139242228221&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1gevl2s1t0cu&ph=0&pid=&pgi=wa0jmo103qa8&prc=1&stc=1&lid=engw101419oq&pli=kcetsm1xyhfi&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3750&st=2150&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-max-sport-3-hd%2Findex.m3u8%3Fe%3D1790683611%26hash%3D4sM-lJOxW1A5dH2dL1PHGA&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-max-sport-3-hd%26pass%3D%26hash%3D&pt=Max%20Sport%203%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20max%20sport%203%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Max Sport 4 HD", Max Sport 4 HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=1802843333&e=e&tv=2.20.2&n=3197370741355910&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=m4l6w7x4ynt4&ph=0&pid=&pgi=1wqenuo3k99d&prc=1&stc=1&lid=tiis2nxqlsbl&pli=2830ol1rv3e4&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3000&st=1540&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-max-sport-4-hd%2Findex.m3u8%3Fe%3D1790680014%26hash%3DxVMahuEWQoig71QlaiEWKQ&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-max-sport-4-hd%26pass%3D%26hash%3D&pt=Max%20Sport%204%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20max%20sport%204%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=-780955744&e=e&tv=2.20.2&n=7114320416645937&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1fp84r815o1s&ph=0&pid=&pgi=d218qb1rcd2o&prc=1&stc=1&lid=engw101419oq&pli=1pigxem10lib&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3300&st=1980&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-max-sport-4-hd%2Findex.m3u8%3Fe%3D1790683619%26hash%3D3tAo-pa-7_Hy1xkHSONNug&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-max-sport-4-hd%26pass%3D%26hash%3D&pt=Max%20Sport%204%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20max%20sport%204%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Nova Sport HD", Nova Sport HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=974864149&e=e&tv=2.20.2&n=0035942213347561&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1k66cn21fm2e&ph=0&pid=&pgi=1t6higonqtdb&prc=1&stc=1&lid=tiis2nxqlsbl&pli=jy1s2c1y6j4j&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3300&st=1560&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-nova-sport-hd%2Findex.m3u8%3Fe%3D1790680023%26hash%3DtysjJX7Zu3LBKGk7v6xg0w&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-nova-sport-hd%26pass%3D%26hash%3D&pt=Nova%20Sport%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20nova%20sport%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=515496396&e=e&tv=2.20.2&n=0077853262564992&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=13ikl7d6joqe&ph=0&pid=&pgi=1lb4belwu1p2&prc=1&stc=1&lid=engw101419oq&pli=qzi1yf2dze5u&id=&tvs=0&set=&c=-1&ask=&fv=&plt=2400&st=930&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-nova-sport-hd%2Findex.m3u8%3Fe%3D1790683628%26hash%3DjXA3vM6gTq79broRtXfq_w&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-nova-sport-hd%26pass%3D%26hash%3D&pt=Nova%20Sport%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20nova%20sport%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Ring BG HD", Ring BG HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=425023879&e=e&tv=2.20.2&n=6940126174184348&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=l5m5xj1s1yka&ph=0&pid=&pgi=p5odc31fvr1r&prc=1&stc=1&lid=tiis2nxqlsbl&pli=p45fdu1gyav9&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3100&st=1840&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-ring-bg-hd%2Findex.m3u8%3Fe%3D1790680031%26hash%3DWSrMtHgBj4VknqBbFJ0AcQ&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-ring-bg-hd%26pass%3D%26hash%3D&pt=Ring%20Bg%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20ring%20bg%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=1351832400&e=e&tv=2.20.2&n=9292522078842065&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=kjxd1w1tjzlf&ph=0&pid=&pgi=1dsanewjqa5f&prc=1&stc=1&lid=engw101419oq&pli=1po5r3j1dbkf&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3600&st=2020&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-ring-bg-hd%2Findex.m3u8%3Fe%3D1790683636%26hash%3Dln62_nx8Ae2rT3nfbESpLg&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-ring-bg-hd%26pass%3D%26hash%3D&pt=Ring%20Bg%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20ring%20bg%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Eurosport 1 HD", Eurosport 1 HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=1401607680&e=e&tv=2.20.2&n=3643640110077548&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1l44c8m1u3vy&ph=0&pid=&pgi=s00747mj4kdc&prc=1&stc=1&lid=tiis2nxqlsbl&pli=cl9jbp11qqqs&id=&tvs=0&set=&c=-1&ask=&fv=&plt=2900&st=1570&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-eurosport-1-hd%2Findex.m3u8%3Fe%3D1790680039%26hash%3DYI3LYc_-A6XCWzYBVAASrw&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-eurosport-1-hd%26pass%3D%26hash%3D&pt=Eurosport%201%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20eurosport%201%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=333542477&e=e&tv=2.20.2&n=9842911380506716&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=83t0zb167f82&ph=0&pid=&pgi=197xstoayhlf&prc=1&stc=1&lid=engw101419oq&pli=1cn2h4nnolx3&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3200&st=1700&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-eurosport-1-hd%2Findex.m3u8%3Fe%3D1790683645%26hash%3DqAGlvuTh--J6L1QR_d1KGw&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-eurosport-1-hd%26pass%3D%26hash%3D&pt=Eurosport%201%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20eurosport%201%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Eurosport 2 HD", Eurosport 2 HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=-562320258&e=e&tv=2.20.2&n=5778827030539704&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=87vrw1wz6zyi&ph=0&pid=&pgi=jnucrx1wqxcx&prc=1&stc=1&lid=tiis2nxqlsbl&pli=rkopdaq560w6&id=&tvs=0&set=&c=-1&ask=&fv=&plt=2900&st=1310&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-eurosport-2-hd%2Findex.m3u8%3Fe%3D1790680047%26hash%3DFvqOnsPbWUPmaOwDHVNZmg&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-eurosport-2-hd%26pass%3D%26hash%3D&pt=Eurosport%202%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20eurosport%202%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=137884921&e=e&tv=2.20.2&n=6919440003967902&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=g6b02719eyjn&ph=0&pid=&pgi=1plcgj6zuv29&prc=1&stc=1&lid=engw101419oq&pli=d75ylkqrblam&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3200&st=1390&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-eurosport-2-hd%2Findex.m3u8%3Fe%3D1790683653%26hash%3D5ZGT7Wjojfynz8gaHFHYJA&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-eurosport-2-hd%26pass%3D%26hash%3D&pt=Eurosport%202%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20eurosport%202%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
 
 #EXTINF:-1 tvg-name="Max One HD", Max One HD
-https://jwpltx.com/v1/jwplayer6/ping.gif?h=578116211&e=e&tv=2.20.2&n=9874246623891858&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=14jjyia1aagf&ph=0&pid=&pgi=o80df1sndwl1&prc=1&stc=1&lid=tiis2nxqlsbl&pli=a4rjgo2onqeb&id=&tvs=0&set=&c=-1&ask=&fv=&plt=3050&st=1750&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-max-one-hd%2Findex.m3u8%3Fe%3D1790680055%26hash%3DnbdTZ1CohVyBCA77_OsqWA&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-max-one-hd%26pass%3D%26hash%3D&pt=Max%20One%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20max%20one%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
+https://jwpltx.com/v1/jwplayer6/ping.gif?h=635556218&e=e&tv=2.20.2&n=4082795312760852&aid=CVN5ToXqEeKvJyIACp8kUw&ed=3&pv=7.10.2&sdk=0&emi=1oqi3mkqvyy2&ph=0&pid=&pgi=1g0m9df17tlm&prc=1&stc=1&lid=engw101419oq&pli=xey6xm1u6x5b&id=&tvs=0&set=&c=-1&ask=&fv=&plt=2850&st=1530&pd=0&vp=1&ab=0&po=0&s=0&r=0&sn=seven&pad=&cb=1&ga=0&dd=1&rf=&vrt=&pbc=0&d=0&pp=html5&ps=4&wd=602&pl=339&vb=1&vi=1&at=1&i=0&vl=90&mt=0&ccp=0&eb=0&pbr=1&pbd=&mu=https%3A%2F%2Fro.glebul.com%2Fhls%2Fhd-max-one-hd%2Findex.m3u8%3Fe%3D1790683661%26hash%3DCdcRtBeKPmCuik-H21zL3g&m=1&cp=0&pyc=0&pii=0&pss=1&t=&pu=https%3A%2F%2Fwww.seirsanduk.online%2F%3Fid%3Dhd-max-one-hd%26pass%3D%26hash%3D&pt=Max%20One%20Online%20%7C%20%D0%93%D0%BB%D0%B5%D0%B4%D0%B0%D0%B9%20max%20one%20-%20Seir%20Sanduk%20-%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE|Referer=https://www.seirsanduk.online/
